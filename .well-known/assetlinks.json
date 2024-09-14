@@ -7,7 +7,8 @@
             "namespace": "android_app",
             "package_name": "com.kornperkus.lab",
             "sha256_cert_fingerprints": [
-                "51:F7:77:6D:A3:EE:8B:A8:8D:69:BF:40:92:F4:B9:09:A6:55:EB:AC:35:62:C6:94:44:58:63:3B:2F:8F:EB:4C"
+                "51:F7:77:6D:A3:EE:8B:A8:8D:69:BF:40:92:F4:B9:09:A6:55:EB:AC:35:62:C6:94:44:58:63:3B:2F:8F:EB:4C",
+                "47:13:5B:AF:A5:BB:31:4F:F0:7D:3C:42:D0:5D:7A:B7:60:B4:C7:E2:5A:05:A1:CA:D1:A3:F0:C5:9F:84:6A:D3"
             ]
         }
     }
